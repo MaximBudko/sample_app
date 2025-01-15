@@ -4,6 +4,7 @@ gem "rails", "~> 8.0.1"
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
+gem 'bootsnap'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
